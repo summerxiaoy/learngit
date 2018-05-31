@@ -3,3 +3,4 @@ Git is free software.
 git is good.
 git is easy to use.
 git is really usufull.
+我要用中文
